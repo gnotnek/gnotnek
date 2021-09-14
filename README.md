@@ -1,11 +1,10 @@
-### Hi there 👋
+## Hai, Welcome to my profile 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m a student
-- 🌱 I’m currently learning machine learning, blockchains, flutter
-- 🤔 I’m looking for help with anything
-- 💬 Ask me about anything
-- 📫 How to reach me: [my facebook](https://www.facebook.com/dhista.dna/)
-- 😄 Pronouns: he/him
-
+<!-- <p align="center">
+    <img src = "https://cdn.discordapp.com/attachments/765606831229370441/848229136848781352/10.jpg">
+</p>
+ -->
+## Stats
+<p align="left">
+    <img src = "https://github-readme-stats.vercel.app/api?username=gnotnek&count_private=true&show_icons=true&theme=vue&hide=prs,issues,contribs">
+</p>
