@@ -8,5 +8,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnotnek&theme=tokyonight&layout=compact)](https://github.com/gnotnek)
 
-[![gnotnek's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gnotnek&theme=tokyonight&layout=compact)](https://github.com/gnotnek)
+[![wakatime](https://wakatime.com/badge/user/af96e480-cfcb-4919-898e-4fed154c401c.svg)](https://wakatime.com/@af96e480-cfcb-4919-898e-4fed154c401c)
 
