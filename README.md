@@ -1,17 +1,49 @@
-## Hai, Welcome to my profile 👋
-Informatics Engineering graduate with a focus on backend and software engineering. Skilled in developing and maintaining backend systems, designing APIs, and implementing software solutions. Proven track record in completing projects and committed to continuous learning in technology.
+## Hi, welcome to my profile 👋
 
-Open to freelance gigs? Let's connect!
+I'm **Dhista Dwi Nur Ardiansyah**, a Software Engineer based in Yogyakarta, Indonesia.
 
-Email: dhistadna@gmail.com
-LinkedIn: <a href="www.linkedin.com/in/dhista-ardiansyah"> Dhista Dwi Nur Ardiansyah </a>
+I focus mainly on **backend engineering**, with experience in building APIs, internal systems, and software solutions using **Golang, TypeScript, Node.js, Laravel, PostgreSQL, MongoDB, Redis, and cloud-based deployment workflows**.
 
-## Stats
-<a href="https://github.com/gnotnek">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gnotnek&show_icons=true&theme=gotham&include_all_commits=true&count_private=true">
+I enjoy working on systems that are reliable, maintainable, and useful for real operational needs. My recent work involves backend services for university operations, internal APIs, budgeting systems, real-time voucher/coupon systems, and AI-supported knowledge management tools.
+
+I’m also interested in **AI integration, system design, developer tooling, and sports analytics**.
+
+Open to freelance work, collaboration, or backend engineering opportunities.
+
+📩 **Email:** dhistadna@gmail.com  
+🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/dhista-ardiansyah">Dhista Dwi Nur Ardiansyah</a>
+
+---
+
+## Tech Stack
+
+**Languages:**  
+Golang, TypeScript, JavaScript, PHP, Python
+
+**Backend & Frameworks:**  
+Go Fiber, Express.js, Node.js, Laravel, Hapi.js, Flask
+
+**Databases & Storage:**  
+PostgreSQL, MongoDB, MySQL, Redis, Supabase, Cloudflare R2
+
+**Tools & Platforms:**  
+Docker, GitLab CI/CD, Google Cloud Run, Postman, Swagger, Git, RabbitMQ
+
+---
+
+## Current Focus
+
+- Building scalable backend services with **Golang** and **TypeScript**
+- Designing internal APIs and system integrations
+- Exploring AI-powered applications with **RAG** and LLM integration
+- Improving software architecture, documentation, and maintainability
+
+
+## Connect
+
+<a href="mailto:dhistadna@gmail.com">
+  <img src="https://img.shields.io/badge/Email-dhistadna%40gmail.com-red?style=flat-square&logo=gmail">
 </a>
-<hr>
-<a href="https://github.com/gnotnek">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnotnek&layout=compact&theme=gotham">
+<a href="https://www.linkedin.com/in/dhista-ardiansyah">
+  <img src="https://img.shields.io/badge/LinkedIn-Dhista%20Ardiansyah-blue?style=flat-square&logo=linkedin">
 </a>
-
